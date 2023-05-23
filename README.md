@@ -9,5 +9,4 @@ This is my little github about my journey at university. So, have a good day <3
 Contact:
   - Mail: <a href="mailto:ngtranducan@gmail.com">ngtranducan@gmail.com</a>
   - Phone: +84 971729225
-  - Facebook: https://www.facebook.com/ducansuper/
-  - Linkedin: https://www.linkedin.com/in/ntducan/
+ 
